@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    app:cardCornerRadius="14dp"
+    app:cardElevation="8dp"
+    android:id="@+id/rootCard">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/rootItem">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="21545 Sum"
+            android:textSize="22sp"
+            android:layout_margin="8dp"
+            android:id="@+id/cost"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="GGGGGGGG"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="2dp"
+            android:id="@+id/comment"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:text="2022-10-12"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="6dp"
+            android:gravity="end"
+            android:layout_marginEnd="10dp"
+            android:id="@+id/mDate"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

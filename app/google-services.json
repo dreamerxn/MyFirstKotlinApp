@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1057982220088",
+    "firebase_url": "https://my-finances-cfffe-default-rtdb.firebaseio.com",
+    "project_id": "my-finances-cfffe",
+    "storage_bucket": "my-finances-cfffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057982220088:android:eca0f5e81aa946c62423cd",
+        "android_client_info": {
+          "package_name": "com.society.myFinances"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057982220088-5aa6orm9ficsvh43s389hmbb6ivlmdpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA94Jc09q8CmFE794fG0RCMvy6mxvxcPuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057982220088-5aa6orm9ficsvh43s389hmbb6ivlmdpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057982220088:android:b2dc59cd41fab58e2423cd",
+        "android_client_info": {
+          "package_name": "com.society.myfirstkotlinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057982220088-5aa6orm9ficsvh43s389hmbb6ivlmdpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA94Jc09q8CmFE794fG0RCMvy6mxvxcPuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057982220088-5aa6orm9ficsvh43s389hmbb6ivlmdpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

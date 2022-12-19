@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trendingUp"
+        android:title="Прибыл"
+        android:icon="@drawable/ic_baseline_trending_up_24"
+        android:contentDescription="@string/appbar_scrolling_view_behavior"/>
+    <item
+        android:title=""
+        />
+    <item
+        android:id="@+id/trendingDown"
+        android:title="Расходы"
+        android:icon="@drawable/ic_baseline_trending_down_24"
+        android:contentDescription="@string/bottom_sheet_behavior"
+        />
+
+</menu>
